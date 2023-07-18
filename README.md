@@ -112,3 +112,15 @@ My score was 8 points :first_quarter_moon:
 #### 3. Using assert method on Add Player website
 ## Subtask 5
 #### :white_check_mark: Using assert_element_text method on the Scouts Panel login_page
+# Task 4
+## Subtask 1
+#### :white_check_mark: [Test cases for Scouts Panel website](https://docs.google.com/spreadsheets/d/126GgbgVnIW3EKG4N3LBQD1VITwUcTfezCzlFz_FMhtE/edit?usp=sharing)
+## Subtask 2
+#### :white_check_mark: Creating new automatic tests based on test cases:
+##### 1. TC-01 Login to the system with invalid password
+##### 2. TC-02 Remind password (positive path)
+##### 3. TC-03 Verification of 'Sign out' functionality
+##### 4. TC-04 Adding new player
+##### 5. TC-05 Clearing 'Add player' form
+## Subtask 3
+#### :white_check_mark: [Recordings of executed automated tests](https://drive.google.com/drive/folders/1VswtCNyrkvoJxvONjc0z7aZoI9wc3CMW?usp=sharing)
