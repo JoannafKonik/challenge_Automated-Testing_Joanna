@@ -53,6 +53,9 @@ class TestAddNewPlayer(unittest.TestCase):
     def tearDown(self):
         self.driver.quit()
 
+
+class TestAddNewPlayer_clear_form(unittest.TestCase):
+
     @classmethod
     def setUp(self):
         os.chmod(DRIVER_PATH, 755)

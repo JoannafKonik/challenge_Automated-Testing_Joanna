@@ -5,7 +5,7 @@ from pages.base_page import BasePage
 class RemindPasswordPage(BasePage):
     email_field_xpath = "//*[@name='email']"
     send_button_xpath = "//*[@type='submit']"
-    snackbar_xpath = "//*[@id='w45e44beu6']"
+    snackbar_xpath = "//*[contains(@class, 'Toastify__toast-container Toastify__toast-container--top-right')]"
     remind_password_url = 'https://scouts-test.futbolkolektyw.pl/en/remind'
     expected_title = 'Remind password'
 

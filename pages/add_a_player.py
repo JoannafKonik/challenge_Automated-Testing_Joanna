@@ -6,6 +6,8 @@ from pages.base_page import BasePage
 class AddPlayer(BasePage):
     addplayer_url = 'https://scouts-test.futbolkolektyw.pl/en/players/add'
     expected_title = 'Add player'
+    ScoutsPanel_label_xpath = "//*[text()='Scouts Panel']"
+    Players_label_xpath = "//*[text()='Players']"
     email_field_xpath = "//*[@name='email']"
     name_field_xpath = "//*[@name='name']"
     surname_field_xpath = "//*[@name='surname']"
