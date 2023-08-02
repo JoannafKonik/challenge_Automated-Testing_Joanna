@@ -15,7 +15,7 @@ class Dashboard(BasePage):
     Shortcuts_heading_xpath = "//*[text()='Shortcuts']"
     add_player_button_xpath = "//*[text()='Add player']"
     expected_title = 'Scouts panel'
-    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/en'
+    dashboard_url = 'https://dareit.futbolkolektyw.pl/en'
 
     def title_of_page(self):
         self.wait_for_element_to_be_clickable(self.Futbol_Kolektyw_logo_xpath)

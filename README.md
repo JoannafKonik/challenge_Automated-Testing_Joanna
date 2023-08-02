@@ -117,13 +117,23 @@ My score was 8 points :first_quarter_moon:
 #### :white_check_mark: [Test cases for Scouts Panel website](https://docs.google.com/spreadsheets/d/126GgbgVnIW3EKG4N3LBQD1VITwUcTfezCzlFz_FMhtE/edit?usp=sharing)
 ## Subtask 2
 #### :white_check_mark: Creating new automatic tests based on test cases:
-##### 1. TC-01 Login to the system with invalid password
-##### 2. TC-02 Remind password (positive path)
-##### 3. TC-03 Verification of 'Sign out' functionality
-##### 4. TC-04 Adding new player
-##### 5. TC-05 Clearing 'Add player' form
+##### 1. TC-01 Login to the system with valid data
+##### 1. TC-02 Login to the system with invalid password
+##### 2. TC-03 Remind password (positive path)
+##### 3. TC-04 Verification of 'Sign out' functionality
+##### 4. TC-05 Add new player
+##### 5. TC-06 Clear 'Add player' form
 ## Subtask 3
 #### :white_check_mark: [Recordings of executed automated tests](https://drive.google.com/drive/folders/1VswtCNyrkvoJxvONjc0z7aZoI9wc3CMW?usp=sharing)
-# Task 4
+# Task 5
 ## Submit 1
 #### :white_check_mark: [Robot Framework - go to my new challenge_robotframework repository](https://github.com/JoannafKonik/challenge_robotframework.git)
+# Task 6
+## Submit 1
+#### :white_check_mark: Link to [production environment of Scouts Panel](https://dareit.futbolkolektyw.pl/) was changed in all tests
+## Submit 2
+#### :white_check_mark: All tests ran on production environment but not all passed. [Link to bug report](https://docs.google.com/spreadsheets/d/1MJzN26rrBcYfd-iRbE1kAuoAh4z_zWOBPlpuZFxOk9k/edit?usp=sharing)
+## Submit 3
+#### :white_check_mark: [Short test report for english version The Scouts Panel](https://docs.google.com/document/d/1x2XaIXAaTYMf-0mZ4WZEZSvXCXpj2Tv7-0k14_LQjiU/edit?usp=sharing)
+## Submit 4
+#### [You are welcome to check my QA_portfolio](test)

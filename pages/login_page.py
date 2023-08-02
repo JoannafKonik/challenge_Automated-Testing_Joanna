@@ -13,7 +13,7 @@ class LoginPage(BasePage):
     login_label_xpath = "//*[@id='login-label']"
     password_label_xpath = "//*[@id='password-label']"
     sign_in_label_xpath = "//*[contains(@class, 'MuiButton-label')]"
-    login_url = 'https://scouts-test.futbolkolektyw.pl/en/login'
+    login_url = 'https://dareit.futbolkolektyw.pl/en'
     expected_title = 'Scouts panel - sign in'
 
     def type_in_email(self, email):
