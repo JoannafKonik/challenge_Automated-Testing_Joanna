@@ -136,4 +136,4 @@ My score was 8 points :first_quarter_moon:
 ## Submit 3
 #### :white_check_mark: [Short test report for english version The Scouts Panel](https://docs.google.com/document/d/1x2XaIXAaTYMf-0mZ4WZEZSvXCXpj2Tv7-0k14_LQjiU/edit?usp=sharing)
 ## Submit 4
-#### [You are welcome to check my QA_portfolio](test)
+#### [You are welcome to check my QA_portfolio](https://github.com/JoannafKonik/QA-portfolio.git)
